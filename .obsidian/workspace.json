@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f1aee065a6f0004b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilités/Probabilités.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilités/Probabilités.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilités/Probabilités.md"
+                "file": "README.md"
               }
             }
           },
@@ -156,17 +169,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93bd135daa0a741f",
+  "active": "f1aee065a6f0004b",
   "lastOpenFiles": [
+    "Probabilités/Probabilités.md",
+    "README.md",
     "Probabilités/Définition/Issues.md",
     "Probabilités/Définition/Hasard.md",
     "Probabilités/Définition/Evènement.md",
     "Probabilités/Définition/Expérience aléatoire.md",
-    "Probabilités/Probabilités.md",
     "Droit/Contrats et Obligations contractuelles.md",
     "SI/Exercices/Cahier des charges (TD).md",
     "SI/Cahier des charges.md",
-    "Untitled.md",
     "SI/Exercices/Logo.PNG",
     "Droit/Définitions/Clause non-concurrence.md",
     "Droit/Chapitre 2/Partie 1/2.4 Clauses particulières.md",
