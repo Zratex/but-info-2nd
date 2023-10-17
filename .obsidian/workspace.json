@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "93bd135daa0a741f",
+            "id": "42a41491a525aba6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +20,31 @@
             }
           },
           {
-            "id": "f1aee065a6f0004b",
+            "id": "ddf8f72bce647a1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Probabilités/Lois/Loi de Poisson.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a76ce93d7d7dcfee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probabilités/Lois/Loi hypergéométrique.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Probabilités/Lois/Loi hypergéométrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Probabilités/Lois/Loi hypergéométrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Probabilités/Lois/Loi hypergéométrique.md"
               }
             }
           },
@@ -169,14 +181,57 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1aee065a6f0004b",
+  "floating": {
+    "id": "cad04611d88d941d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6110a7d26a24946b",
+        "type": "window",
+        "children": [
+          {
+            "id": "ae58391e457957fb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3524d505067f6c60",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Probabilités/Lois/Loi Binomiale.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1009,
+        "y": 24,
+        "width": 600,
+        "height": 600,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "a76ce93d7d7dcfee",
   "lastOpenFiles": [
+    "Probabilités/Lois/Loi Binomiale.md",
+    "Probabilités/Lois/Loi hypergéométrique.md",
     "Probabilités/Probabilités.md",
-    "README.md",
+    "Probabilités/Lois/Loi de Poisson.md",
+    "Probabilités/Définition/Expérience aléatoire.md",
+    "Probabilités/Définition/Univers.md",
     "Probabilités/Définition/Issues.md",
     "Probabilités/Définition/Hasard.md",
+    "Probabilités/Lois/Loi de Bernoulli.md",
     "Probabilités/Définition/Evènement.md",
-    "Probabilités/Définition/Expérience aléatoire.md",
+    "Probabilités/Lois",
+    "README.md",
     "Droit/Contrats et Obligations contractuelles.md",
     "SI/Exercices/Cahier des charges (TD).md",
     "SI/Cahier des charges.md",
@@ -202,12 +257,6 @@
     "Droit/Chapitre 1/Partie 1",
     "Droit/Chapitre 1",
     "Droit/Définitions/Violence.md",
-    "Droit/Définitions/Dol.md",
-    "Droit/Définitions/Contrat.md",
-    "SI/Exercices",
-    "SI",
-    "Réseau/Chapitre 1 Routage statique et dynamique.md",
-    "Réseau/Définitions/Chapitre 1/Routage dynamique.md",
-    "Réseau/Réseau.md"
+    "SI/Exercices"
   ]
 }

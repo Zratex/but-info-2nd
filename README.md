@@ -5,11 +5,15 @@ Une fois que vous avez téléchargé le dépôt sur votre machine, installez [Ob
 > Même si la majorité des fichiers sont en markdown, vous ne pourrez pas profiter du modèle `Mermaid` ni des spécificités des liens entre fichiers sans ce logiciel
 
 Une fois **Obsidian** d'installé, ouvrez un nouveau `vault` à l'endroit où vous avez votre dépôt local.
-### Cache
+### Cache & Plugins
 Il se peux que **Obsidian** vous demande si vous voulez installer un plugin communautaire, dû au fait que le cache d'Obsidian sera présent dans ce dépôt.
 Ce n'est pas une erreur, je le fais pour éviter à ce que chaque utilisateur ait besoin de setup des préférences précises pour pouvoir en profiter.
 > Cependant, libre à vous après de mettre les préférences que vous personnellement désirez !
 
+Le plugin installé sera `Obsidian Git`. Il permet de `git pull` à chaque fois qu'il y a une mise à jour dans le dépôt distant, en pressant simplement une touche. Il vous faudrait donc au préalable :
+- Activer les plugins communautaires dans les paramètres de votre **Obsidian**
+- Télécharger le plugin **Obsidian Git**
+- Assigner une touche pour `Git Pull` (perso c'est `F5`)
 ## Commit/Push
 Si vous voulez commit ou push, parce que vous pensez qu'il y a quelque chose à modifier, ou que vous voulez apporter quelques précisions, n'hésitez surtout pas. Cependant, veuillez suivre à ce que :
 - Votre proposition soit push dans une nouvelle branche

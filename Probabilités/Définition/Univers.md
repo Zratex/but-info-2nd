@@ -1,0 +1,1 @@
+L'Univers en probabilité, noté $\Omega$, est l'ensemble de toutes les [[Issues]] possible dans une [[Expérience aléatoire]]
