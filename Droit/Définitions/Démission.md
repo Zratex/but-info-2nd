@@ -1,0 +1,1 @@
+==Démission :== Rupture à l'initiative du salarié

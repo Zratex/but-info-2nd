@@ -1,0 +1,1 @@
+Un ==événement== est une proposition dont on peut dire qu'elle est vraie (l'événement s'est réalisé) ou fausse (l'événement ne s'est pas réalisé) en observant de résultat de l'[[Expérience aléatoire]].

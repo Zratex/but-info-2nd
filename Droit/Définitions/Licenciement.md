@@ -1,0 +1,1 @@
+==Licenciement :== Rupture à l'initiative de l'employeur. Il doit être prouvé même si ce sont des raisons personnels ou économiques.

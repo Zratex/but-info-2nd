@@ -1,0 +1,1 @@
+==Routage :== Processus permettant à des parquets de **trouver un chemin** pour atteindre leur destination. Donc trouver une interface ou un routeur capable de gérer l'adresse de destination du paquet

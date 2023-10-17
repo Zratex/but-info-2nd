@@ -1,0 +1,2 @@
+==Capacité juridique :== Aptitude à être titulaire de droits et à les exercer
+Les personnes incapables sont ceux qui ont une limitation du fait de leur âge, état physique ou mental, ou de leur situation

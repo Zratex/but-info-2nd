@@ -1,0 +1,1 @@
+Les ==issues== d'une [[Expérience aléatoire]] sont les différents résultats possibles de l'expérience aléatoires

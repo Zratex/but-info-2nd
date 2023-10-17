@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "ec5524af3e3d94ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d535f833daa1d53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93bd135daa0a741f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probabilités/Probabilités.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9d093d7461d54ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "703b2b932347245c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76ae01e06996c6d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "96159bad5dd9f407",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd7232968c33ff81",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af69bdb6c75f4d99",
+    "type": "split",
+    "children": [
+      {
+        "id": "435c44d2f8f754bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e30ad4db91740cb9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Probabilités/Probabilités.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "462b9cdcf824b945",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Probabilités/Probabilités.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39fc4ac4eaa65a0e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2c6a3af31e9a41ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Probabilités/Probabilités.md"
+              }
+            }
+          },
+          {
+            "id": "3529a45261d28350",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "93bd135daa0a741f",
+  "lastOpenFiles": [
+    "Probabilités/Définition/Issues.md",
+    "Probabilités/Définition/Hasard.md",
+    "Probabilités/Définition/Evènement.md",
+    "Probabilités/Définition/Expérience aléatoire.md",
+    "Probabilités/Probabilités.md",
+    "Droit/Contrats et Obligations contractuelles.md",
+    "SI/Exercices/Cahier des charges (TD).md",
+    "SI/Cahier des charges.md",
+    "Untitled.md",
+    "SI/Exercices/Logo.PNG",
+    "Droit/Définitions/Clause non-concurrence.md",
+    "Droit/Chapitre 2/Partie 1/2.4 Clauses particulières.md",
+    "Droit/Chapitre 2/Partie 1",
+    "Droit/Chapitre 2",
+    "Droit/Définitions/Licenciement.md",
+    "Droit/Définitions/Démission.md",
+    "Droit/Définitions/Bonne foi.md",
+    "SI/Exercices/Capture.PNG",
+    "SI/Exercices/Capture.png.md",
+    "Droit/Chapitre 1/Partie 2/2.3 Objet du contrat.md",
+    "Droit/Définitions/Capacité juridique.md",
+    "Droit/Chapitre 1/Partie 2/2.1 Consentement.md",
+    "Droit/Chapitre 1/Partie 2",
+    "Droit/Chapitre 1/Partie 1/1.1 Liberté contractuelle.md",
+    "Droit/Chapitre 1/Partie 1/1.2  Obligation du contrat.md",
+    "Droit/Chapitre 1/Partie 1",
+    "Droit/Chapitre 1/Partie 3",
+    "Droit/Chapitre 1/Partie 2",
+    "Droit/Chapitre 1/Partie 1",
+    "Droit/Chapitre 1",
+    "Droit/Définitions/Violence.md",
+    "Droit/Définitions/Dol.md",
+    "Droit/Définitions/Contrat.md",
+    "SI/Exercices",
+    "SI",
+    "Réseau/Chapitre 1 Routage statique et dynamique.md",
+    "Réseau/Définitions/Chapitre 1/Routage dynamique.md",
+    "Réseau/Réseau.md"
+  ]
+}
