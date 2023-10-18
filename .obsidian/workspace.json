@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Probabilités/Lois/Loi de Poisson.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5d8de0e2d61389af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probabilités/Définition/Coefficient binomiale.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilités/Lois/Loi hypergéométrique.md",
+                "file": "Probabilités/Définition/Coefficient binomiale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilités/Lois/Loi hypergéométrique.md",
+                "file": "Probabilités/Définition/Coefficient binomiale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilités/Lois/Loi hypergéométrique.md"
+                "file": "Probabilités/Définition/Coefficient binomiale.md"
               }
             }
           },
@@ -181,49 +193,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "cad04611d88d941d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6110a7d26a24946b",
-        "type": "window",
-        "children": [
-          {
-            "id": "ae58391e457957fb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3524d505067f6c60",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Probabilités/Lois/Loi Binomiale.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1009,
-        "y": 24,
-        "width": 600,
-        "height": 600,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "a76ce93d7d7dcfee",
+  "active": "5d8de0e2d61389af",
   "lastOpenFiles": [
-    "Probabilités/Lois/Loi Binomiale.md",
-    "Probabilités/Lois/Loi hypergéométrique.md",
-    "Probabilités/Probabilités.md",
     "Probabilités/Lois/Loi de Poisson.md",
+    "Probabilités/Lois/Loi hypergéométrique.md",
+    "Probabilités/Définition/Coefficient binomiale.md",
+    "Probabilités/Lois/Loi Binomiale.md",
+    "Probabilités/Probabilités.md",
     "Probabilités/Définition/Expérience aléatoire.md",
     "Probabilités/Définition/Univers.md",
     "Probabilités/Définition/Issues.md",
@@ -256,7 +232,6 @@
     "Droit/Chapitre 1/Partie 2",
     "Droit/Chapitre 1/Partie 1",
     "Droit/Chapitre 1",
-    "Droit/Définitions/Violence.md",
     "SI/Exercices"
   ]
 }
