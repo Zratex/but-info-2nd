@@ -19,9 +19,11 @@ Une fois l'énoncé posé, on note $X \sim \mathcal{H}(n,p,N)$ ; et on a donc :
 - $\Omega_X =$ {max(0 ; [[Loi hypergéométrique#^06a7a3|n]] - [[Loi hypergéométrique#Représentations de N|N2]]), ... , min([[Loi hypergéométrique#^06a7a3|n]] ; [[Loi hypergéométrique#Représentations de N|N1]])}
 - $\displaystyle\forall k \in \Omega_X, \quad \mathbb{P}(X=k) = \frac{\binom{N_1}{k}\binom{N_2}{n-k}}{\binom{N}{n}}$
 
-A savoir que le calcul avec les parenthèses correspond à des [[Coefficient binomiale]]
+A savoir que :
+- $\Omega$ = [[Univers]]
+- le calcul avec les parenthèses correspond à des [[Coefficient binomiale|coefficients binomiaux]]
 ## Autres formules
-- <u>Espérance :</u>$\mathbb{E}(X) =$ [[Loi hypergéométrique#^06a7a3|n]] * [[Loi hypergéométrique#^9a53b9|p]]
-- <u>Espérance :</u>$\mathbb{V}(X) =$ [[Loi hypergéométrique#^06a7a3|n]] $*$ [[Loi hypergéométrique#^9a53b9|p]] $*$ (1-[[Loi hypergéométrique#^9a53b9|p]]) $*\frac{N-n}{N-1}$
+- <u>Espérance :</u> $\mathbb{E}(X) =$ [[Loi hypergéométrique#^06a7a3|n]] * [[Loi hypergéométrique#^9a53b9|p]]
+- <u>Variance :</u> $\mathbb{V}(X) =$ [[Loi hypergéométrique#^06a7a3|n]] $*$ [[Loi hypergéométrique#^9a53b9|p]] $*$ (1-[[Loi hypergéométrique#^9a53b9|p]]) $*\frac{N-n}{N-1}$
 # Exemple
 Exemple d'utilisation de la loi hypergéométrique dans le cadre d'un exercice.

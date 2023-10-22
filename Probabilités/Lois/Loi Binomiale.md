@@ -12,7 +12,10 @@ Une fois l'énoncé posé, on note $X \sim {\sf Binom}(n,p)$ ; et on a donc :
 - $\Omega_X$ = {0 ,1 , $\cdots$ , [[Loi Binomiale#^bd9df8|n]]}
 - $\forall k \in \Omega_X , P(X=k) = \binom{n}{k} *$ [[Loi Binomiale#^8cbbd5|p]]<sup>k</sup> $(1-p)^{n-k}*(p\in[0,1])$
 
-A savoir que $\Omega$ = [[Univers]]
+A savoir que :
+- $\Omega$ = [[Univers]]
+- Le calcul avec les parenthèses correspond à un [[Coefficient binomiale]]
+
 ## Autres formules
 - <u>Espérance :</u> $\mathbb{E}(X) =$ [[Loi Binomiale#^bd9df8|n]] $*$ [[Loi Binomiale|p]]
 - <u>Variance :</u> $\mathbb{V}(X)=$ [[Loi Binomiale#^bd9df8|n]] $*$ [[Loi Binomiale|p]] $*$ (1-[[Loi Binomiale|p]])
