@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "42a41491a525aba6",
+            "id": "dc13dc8e3b310b94",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,19 +156,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42a41491a525aba6",
+  "active": "dc13dc8e3b310b94",
   "lastOpenFiles": [
-    "Probabilités/Probabilités.md",
+    "Probabilités/Cas classiques/Formule de Bayes.md",
     "Probabilités/Lois/Loi Normale.md",
-    "Probabilités/Lois/Loi hypergéométrique.md",
-    "Probabilités/Lois/Loi de Poisson.md",
-    "Probabilités/Définition/Coefficient binomiale.md",
+    "Probabilités/Probabilités.md",
+    "Probabilités/Cas classiques/Conditionnelle.md",
+    "Probabilités/Cas classiques/Indépendance.md",
+    "Probabilités/Définition/Variables aléatoires.md",
+    "Probabilités/Lois/Loi de Bernoulli.md",
     "Probabilités/Lois/Loi Binomiale.md",
+    "Probabilités/Lois/Loi de Poisson.md",
+    "Probabilités/Lois/Loi hypergéométrique.md",
+    "Probabilités/Cas classiques",
+    "Probabilités/Définition/Coefficient binomiale.md",
     "Probabilités/Définition/Expérience aléatoire.md",
     "Probabilités/Définition/Univers.md",
     "Probabilités/Définition/Issues.md",
     "Probabilités/Définition/Hasard.md",
-    "Probabilités/Lois/Loi de Bernoulli.md",
     "Probabilités/Définition/Evènement.md",
     "Probabilités/Lois",
     "README.md",
@@ -185,16 +190,11 @@
     "Droit/Définitions/Bonne foi.md",
     "SI/Exercices/Capture.PNG",
     "SI/Exercices/Capture.png.md",
-    "Droit/Chapitre 1/Partie 2/2.3 Objet du contrat.md",
-    "Droit/Définitions/Capacité juridique.md",
-    "Droit/Chapitre 1/Partie 2/2.1 Consentement.md",
     "Droit/Chapitre 1/Partie 2",
-    "Droit/Chapitre 1/Partie 1/1.1 Liberté contractuelle.md",
     "Droit/Chapitre 1/Partie 1",
     "Droit/Chapitre 1/Partie 3",
     "Droit/Chapitre 1/Partie 2",
     "Droit/Chapitre 1/Partie 1",
-    "Droit/Chapitre 1",
-    "SI/Exercices"
+    "Droit/Chapitre 1"
   ]
 }
