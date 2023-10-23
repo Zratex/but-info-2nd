@@ -14,49 +14,12 @@
               "type": "markdown",
               "state": {
                 "file": "Probabilités/Probabilités.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddf8f72bce647a1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probabilités/Lois/Loi de Poisson.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a76ce93d7d7dcfee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probabilités/Lois/Loi hypergéométrique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d8de0e2d61389af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probabilités/Définition/Coefficient binomiale.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilités/Définition/Coefficient binomiale.md",
+                "file": "Probabilités/Probabilités.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilités/Définition/Coefficient binomiale.md",
+                "file": "Probabilités/Probabilités.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilités/Définition/Coefficient binomiale.md"
+                "file": "Probabilités/Probabilités.md"
               }
             }
           },
@@ -193,13 +156,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d8de0e2d61389af",
+  "active": "42a41491a525aba6",
   "lastOpenFiles": [
-    "Probabilités/Lois/Loi de Poisson.md",
+    "Probabilités/Probabilités.md",
+    "Probabilités/Lois/Loi Normale.md",
     "Probabilités/Lois/Loi hypergéométrique.md",
+    "Probabilités/Lois/Loi de Poisson.md",
     "Probabilités/Définition/Coefficient binomiale.md",
     "Probabilités/Lois/Loi Binomiale.md",
-    "Probabilités/Probabilités.md",
     "Probabilités/Définition/Expérience aléatoire.md",
     "Probabilités/Définition/Univers.md",
     "Probabilités/Définition/Issues.md",
@@ -226,7 +190,6 @@
     "Droit/Chapitre 1/Partie 2/2.1 Consentement.md",
     "Droit/Chapitre 1/Partie 2",
     "Droit/Chapitre 1/Partie 1/1.1 Liberté contractuelle.md",
-    "Droit/Chapitre 1/Partie 1/1.2  Obligation du contrat.md",
     "Droit/Chapitre 1/Partie 1",
     "Droit/Chapitre 1/Partie 3",
     "Droit/Chapitre 1/Partie 2",
