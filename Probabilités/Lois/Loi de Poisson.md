@@ -3,7 +3,7 @@ Quand un énoncé admet ==X== occurrences sur une certaine intervalle de temps, 
 # Formule
 On note $X \sim \mathcal{P}(\lambda)$ ; On a donc :
 - $\Omega_X$ = {0 ,1 , $\cdots$ }
-- $\forall k \in \Omega_X , \mathcal{P}(X=k) = \frac{\lambda^k*e^{-\lambda}}{k!}$
+$$\forall k \in \Omega_X , \mathcal{P}(X=k) = \frac{\lambda^k*e^{-\lambda}}{k!}$$
 
 A savoir que :
 - $\Omega$ = [[Univers]]
@@ -30,7 +30,7 @@ $X$ est une [[Variables aléatoires|variable aléatoire]] décrivant la probabil
 	- $\lambda$ est le nombre moyen de défaillances par jour
 	  Ici $\lambda=2$
 ### Calcul
-$\forall k \in \Omega_X , \mathcal{P}(X=k) = \frac{\lambda^k*e^{-\lambda}}{k!}$
+$$\forall k \in \Omega_X , \mathcal{P}(X=k) = \frac{\lambda^k*e^{-\lambda}}{k!}$$
 - $\mathcal{P}(X=0) = \frac{2^0*e^{-2}}{0!}$
 - $\mathcal{P}(X=0) = \frac{e^{-2}}{1}$
 - $\mathcal{P}(X=0) = e^{-2}$
@@ -50,7 +50,7 @@ $X$ est une [[Variables aléatoires|variable aléatoire]] décrivant la probabil
 	- $\lambda$ est le nombre moyen de défaillances par jour
 	  Ici $\lambda=2$
 ### Calcul
-$\forall k \in \Omega_X , \mathcal{P}(X=k) = \frac{\lambda^k*e^{-\lambda}}{k!}$
+$$\forall k \in \Omega_X , \mathcal{P}(X=k) = \frac{\lambda^k*e^{-\lambda}}{k!}$$
 - Calcul de $\mathbb{P}(X=0)$ :
 	(valeur reprise dans l'exo précédent)
 	$\mathbb{P}(X=0) = e^{-2}$
