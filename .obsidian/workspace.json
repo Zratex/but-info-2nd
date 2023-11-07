@@ -150,6 +150,10 @@
   },
   "active": "caf37b24c5a5eecf",
   "lastOpenFiles": [
+    "POO/Définitions/Classe.md",
+    "POO/Définitions/Polymorphisme.md",
+    "POO/Définitions/Héritage.md",
+    "POO/Définitions/Encapsulation.md",
     "POO/C++/point h/Prototype.md",
     "POO/C++/point cc/Méthodes cpp.md",
     "POO/C++/point h/En-tête.md",
@@ -157,7 +161,6 @@
     "Développement efficace/Structure données/Structure chaînée.md",
     "Maths/Fonction.md",
     "Maths/Probabilités/Lois/Loi de Poisson.md",
-    "POO/Définitions/Classe.md",
     "POO/Définitions/Constructeur.md",
     "Méthode de classe.md",
     "Développement efficace/Structure données/Pile.md",
@@ -174,10 +177,8 @@
     "Maths/Algèbre linéaire",
     "Maths",
     "Management SI/Bilan.md",
-    "POO/Définitions/Polymorphisme.md",
     "POO/Définitions/Objet.md",
     "POO/Définitions/Instance.md",
-    "POO/Définitions/Encapsulation.md",
     "Management SI/Compte de résultat.md",
     "Management SI",
     "POO/C++",
@@ -185,7 +186,6 @@
     "POO/Définitions",
     "POO",
     "SI/Diagramme de séquence.md",
-    "SI/Scénario.md",
     "SI/Exercices/Logo.PNG",
     "SI/Exercices/Capture.PNG"
   ]
