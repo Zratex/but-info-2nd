@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6f30aaa144cee28f",
+        "id": "2c258340c33128a7",
         "type": "tabs",
         "children": [
           {
-            "id": "fd933cdad43c9afe",
+            "id": "caf37b24c5a5eecf",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fonction",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,8 +148,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd933cdad43c9afe",
+  "active": "caf37b24c5a5eecf",
   "lastOpenFiles": [
+    "POO/C++/point h/Prototype.md",
+    "POO/C++/point cc/Méthodes cpp.md",
+    "POO/C++/point h/En-tête.md",
+    "POO/C++/Cpp.md",
+    "Développement efficace/Structure données/Structure chaînée.md",
+    "Maths/Fonction.md",
+    "Maths/Probabilités/Lois/Loi de Poisson.md",
+    "POO/Définitions/Classe.md",
+    "POO/Définitions/Constructeur.md",
+    "Méthode de classe.md",
+    "Développement efficace/Structure données/Pile.md",
+    "POO/C++/Trio.md",
+    "POO/Définitions/Destructeur.md",
+    "POO/C++/point cc",
+    "POO/C++/point h",
+    "POO/C++/Extensions du cpp.md",
+    "Développement efficace/Développement efficace.md",
+    "Développement efficace/Structure données",
+    "Développement efficace",
     "Maths/Algèbre linéaire/Algèbre linéaire.md",
     "Maths/Mathématiques.md",
     "Maths/Algèbre linéaire",
@@ -158,35 +177,16 @@
     "POO/Définitions/Polymorphisme.md",
     "POO/Définitions/Objet.md",
     "POO/Définitions/Instance.md",
-    "POO/Définitions/Fonction.md",
     "POO/Définitions/Encapsulation.md",
-    "POO/Définitions/Classe.md",
     "Management SI/Compte de résultat.md",
     "Management SI",
-    "POO/C++/Extensions du cpp.md",
-    "POO/C++/Cpp.md",
     "POO/C++",
     "POO/POO.md",
     "POO/Définitions",
     "POO",
     "SI/Diagramme de séquence.md",
-    "Management SI",
     "SI/Scénario.md",
-    "SI/Cahier des charges.md",
-    "Maths/Probabilités/Probabilités.md",
-    "Maths/Probabilités/Définition/Variables aléatoires.md",
-    "Maths/Probabilités/Définition/Calcul coef binomiale.md",
-    "Maths/Probabilités/Cas classiques/Indépendance.md",
-    "Maths/Probabilités/Cas classiques/Formule de Bayes.md",
-    "Maths/Probabilités/Cas classiques/Conditionnelle.md",
-    "Maths/Probabilités/Cas classiques",
-    "Maths/Probabilités/Lois/Loi hypergéométrique.md",
-    "Maths/Probabilités/Lois/Loi Normale.md",
-    "Maths/Probabilités/Lois/Loi Binomiale.md",
-    "Maths/Probabilités/Lois/Loi de Bernoulli.md",
-    "Maths/Probabilités/Lois",
     "SI/Exercices/Logo.PNG",
-    "Droit/Chapitre 2/Partie 1",
     "SI/Exercices/Capture.PNG"
   ]
 }

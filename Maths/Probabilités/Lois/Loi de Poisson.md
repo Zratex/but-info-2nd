@@ -8,7 +8,7 @@ $$\forall k \in \Omega_X , \mathcal{P}(X=k) = \frac{\lambda^k*e^{-\lambda}}{k!}$
 A savoir que :
 - $\Omega$ = [[Univers]]
 - $\lambda$ = moyenne sur un intervalle de temps prédéfini
-- e = fonction exponentielle
+- e = [[Fonction|fonction]] exponentielle
 ## Autres formules
 - <u>Espérance :</u> $\mathbb{E}(X) =$ $\lambda$
 - <u>Variance :</u> $\mathbb{V}(X)=$ $\lambda$ 

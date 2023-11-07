@@ -1,0 +1,1 @@
+Cette note décrit l'implémentation des méthodes de [[Classe]] en [[Cpp|C++]], une fois que les [[Prototype|prototypes]] ont été réalisés dans l'[[En-tête]].
