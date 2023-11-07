@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d754774d627fcd9a",
+        "id": "6f30aaa144cee28f",
         "type": "tabs",
         "children": [
           {
-            "id": "24ff732834dbdf9c",
+            "id": "fd933cdad43c9afe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POO/C++/Cpp.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POO/C++/Cpp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POO/C++/Cpp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "POO/C++/Cpp.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,45 +148,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24ff732834dbdf9c",
+  "active": "fd933cdad43c9afe",
   "lastOpenFiles": [
-    "POO/Définitions/Classe.md",
-    "POO/Définitions/Encapsulation.md",
-    "Fonction.md",
-    "POO/Définitions/Objet.md",
+    "Management SI/Bilan.md",
     "POO/Définitions/Polymorphisme.md",
-    "POO/POO.md",
+    "POO/Définitions/Objet.md",
     "POO/Définitions/Instance.md",
-    "POO/Définitions",
-    "POO/C++/Cpp.md",
+    "POO/Définitions/Fonction.md",
+    "POO/Définitions/Encapsulation.md",
+    "POO/Définitions/Classe.md",
+    "Management SI/Compte de résultat.md",
+    "Management SI",
     "POO/C++/Extensions du cpp.md",
+    "POO/C++/Cpp.md",
     "POO/C++",
+    "POO/POO.md",
+    "POO/Définitions",
     "POO",
-    "Probabilités/Lois/Loi Binomiale.md",
-    "Probabilités/Lois/Loi hypergéométrique.md",
-    "Probabilités/Définition/Calcul coef binomiale.md",
-    "Probabilités/Définition/Coefficient binomiale.md",
-    "Probabilités/Cas classiques/Conditionnelle.md",
+    "SI/Diagramme de séquence.md",
+    "Management SI",
+    "SI/Scénario.md",
+    "SI/Cahier des charges.md",
     "Probabilités/Probabilités.md",
+    "Probabilités/Définition/Variables aléatoires.md",
+    "Probabilités/Définition/Calcul coef binomiale.md",
     "Probabilités/Cas classiques/Indépendance.md",
     "Probabilités/Cas classiques/Formule de Bayes.md",
-    "Probabilités/Lois/Loi Normale.md",
-    "Probabilités/Définition/Variables aléatoires.md",
-    "Probabilités/Lois/Loi de Bernoulli.md",
-    "Probabilités/Lois/Loi de Poisson.md",
+    "Probabilités/Cas classiques/Conditionnelle.md",
     "Probabilités/Cas classiques",
-    "Probabilités/Définition/Expérience aléatoire.md",
-    "Probabilités/Définition/Univers.md",
-    "Probabilités/Définition/Issues.md",
-    "Probabilités/Définition/Hasard.md",
-    "Probabilités/Définition/Evènement.md",
+    "Probabilités/Lois/Loi hypergéométrique.md",
+    "Probabilités/Lois/Loi Normale.md",
+    "Probabilités/Lois/Loi Binomiale.md",
+    "Probabilités/Lois/Loi de Bernoulli.md",
     "Probabilités/Lois",
     "SI/Exercices/Logo.PNG",
     "Droit/Chapitre 2/Partie 1",
     "Droit/Chapitre 2",
     "SI/Exercices/Capture.PNG",
-    "Droit/Chapitre 1/Partie 2",
-    "Droit/Chapitre 1/Partie 1",
-    "Droit/Chapitre 1/Partie 3"
+    "Droit/Chapitre 1/Partie 2"
   ]
 }
