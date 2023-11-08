@@ -5,7 +5,7 @@ L'en-tête contient la définition de la [[Classe]] en [[Cpp|C++]].
 1) Définition `.h`
    Il faut intégrer `#ifndef __NomDeLaClasse_H__` suivi de `#define __NomDeLaClasse_H__`
 2) Importation des modules externes utilisés.
-   ça se fait avec `#inclue <NomDuModule>`
+   ça se fait avec `#include <NomDuModule>`
 3) `class NomDeLaClasse{`
 4) [[Prototype]]
 5) `};` et `#endif`

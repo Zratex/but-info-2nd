@@ -11,8 +11,24 @@
             "id": "f28387766991cc6b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "POO/C++/point cc/Méthodes cpp.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57972f16de271113",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "POO/Définitions/Polymorphisme.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "POO/C++/point cc/Méthodes cpp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "POO/C++/point cc/Méthodes cpp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "POO/C++/point cc/Méthodes cpp.md"
+              }
             }
           },
           {
@@ -148,17 +168,57 @@
       "command-palette:Open command palette": false
     }
   },
+  "floating": {
+    "id": "b227da9be7251da2",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f9eab308c0e2d17d",
+        "type": "window",
+        "children": [
+          {
+            "id": "1c3a8c4907d70ab1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f9977aff2d106f55",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "POO/C++/point h/En-tête.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 757,
+        "y": 45,
+        "width": 1576,
+        "height": 1000,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "f28387766991cc6b",
   "lastOpenFiles": [
-    "POO/C++/Mot-clés spéciaux/const.md",
+    "POO/C++/point h/En-tête.md",
     "POO/C++/point cc/Méthodes cpp.md",
+    "POO/C++/Cpp.md",
+    "POO/Définitions/Héritage.md",
+    "POO/Définitions/Polymorphisme.md",
+    "POO/C++/Mot-clés spéciaux/const.md",
     "POO/C++/Opérateurs/Opérateurs cpp.md",
     "POO/C++/Opérateurs/Pointeur.md",
     "POO/C++/Mot-clés spéciaux",
     "POO/C++/Extensions du cpp.md",
     "POO/C++/Trio.md",
     "POO/Définitions/Opérateur informatique.md",
-    "POO/Définitions/Héritage.md",
     "POO/Définitions/Destructeur.md",
     "POO/C++/Opérateurs/Référence.md",
     "POO/C++/Opérateurs/Delete.md",
@@ -167,12 +227,9 @@
     "POO/Définitions/Objet.md",
     "POO/POO.md",
     "POO/C++/point h/Prototype.md",
-    "POO/C++/point h/En-tête.md",
     "POO/Définitions/Constructeur.md",
     "POO/Définitions/Classe.md",
-    "POO/Définitions/Polymorphisme.md",
     "POO/Définitions/Encapsulation.md",
-    "POO/C++/Cpp.md",
     "Développement efficace/Structure données/Structure chaînée.md",
     "Maths/Fonction.md",
     "Maths/Probabilités/Lois/Loi de Poisson.md",
