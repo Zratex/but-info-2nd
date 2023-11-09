@@ -4,29 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "bc2a0f29577c997a",
+        "id": "ae2e261535bdff36",
         "type": "tabs",
         "children": [
           {
-            "id": "f28387766991cc6b",
+            "id": "052c107744b2bb73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POO/C++/point cc/Méthodes cpp.md",
-                "mode": "preview",
+                "file": "POO/C++/Opérateurs/Pointeur.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "57972f16de271113",
+            "id": "e8f4dd20b8c833bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POO/Définitions/Polymorphisme.md",
+                "file": "POO/C++/std.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6122d5b55540e0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "POO/C++/Adresse.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POO/C++/point cc/Méthodes cpp.md",
+                "file": "POO/C++/Opérateurs/Pointeur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POO/C++/point cc/Méthodes cpp.md",
+                "file": "POO/C++/Opérateurs/Pointeur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POO/C++/point cc/Méthodes cpp.md"
+                "file": "POO/C++/Opérateurs/Pointeur.md"
               }
             }
           },
@@ -205,22 +217,24 @@
       }
     ]
   },
-  "active": "f28387766991cc6b",
+  "active": "052c107744b2bb73",
   "lastOpenFiles": [
-    "POO/C++/point h/En-tête.md",
-    "POO/C++/point cc/Méthodes cpp.md",
-    "POO/C++/Cpp.md",
-    "POO/Définitions/Héritage.md",
-    "POO/Définitions/Polymorphisme.md",
-    "POO/C++/Mot-clés spéciaux/const.md",
-    "POO/C++/Opérateurs/Opérateurs cpp.md",
+    "POO/C++/Opérateurs/Référence.md",
     "POO/C++/Opérateurs/Pointeur.md",
+    "POO/C++/Mot-clés spéciaux/const.md",
+    "POO/C++/std.md",
+    "POO/C++/Adresse.md",
+    "POO/C++/Cpp.md",
+    "POO/Définitions/Polymorphisme.md",
+    "POO/C++/point cc/Méthodes cpp.md",
+    "POO/C++/point h/En-tête.md",
+    "POO/Définitions/Héritage.md",
+    "POO/C++/Opérateurs/Opérateurs cpp.md",
     "POO/C++/Mot-clés spéciaux",
     "POO/C++/Extensions du cpp.md",
     "POO/C++/Trio.md",
     "POO/Définitions/Opérateur informatique.md",
     "POO/Définitions/Destructeur.md",
-    "POO/C++/Opérateurs/Référence.md",
     "POO/C++/Opérateurs/Delete.md",
     "POO/C++/Opérateurs/New.md",
     "POO/C++/Opérateurs",
@@ -233,7 +247,6 @@
     "Développement efficace/Structure données/Structure chaînée.md",
     "Maths/Fonction.md",
     "Maths/Probabilités/Lois/Loi de Poisson.md",
-    "Méthode de classe.md",
     "POO/C++/point cc",
     "POO/C++/point h",
     "Développement efficace/Structure données",

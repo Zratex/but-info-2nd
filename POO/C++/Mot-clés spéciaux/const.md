@@ -1,4 +1,5 @@
 `const` est un mot-clé en [[Cpp|C++]] permettant d'indiquer au système que l'élément (que ce soit une variable, un [[Pointeur]], une [[Référence]] ou une [[Fonction]]) d'origine ne doit pas être modifiée.
+On dit que l'élément est **constant**.
 
 ## Variable
 Pour qu'une variable soit constante, il suffit juste de mettre l'attribut `const` devant sa déclaration.
