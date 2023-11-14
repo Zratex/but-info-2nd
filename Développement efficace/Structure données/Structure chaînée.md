@@ -6,7 +6,8 @@ De ce fait, ce pointeur pointe vers le premier nœud, ce qu'il fait que ce nœud
 Exemple d'implémentation en [[Cpp|C++]] d'un nœud (ici on réalise une [[Classe]] dédiée):
 
 ```cpp
-class Noeud{
+class Noeud
+{
 	private:
 		char x;
 		Noeud * p;

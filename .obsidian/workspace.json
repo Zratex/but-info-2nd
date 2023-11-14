@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "249652cd4ddfea83",
+            "id": "0a63af7191d7150f",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -148,8 +148,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "249652cd4ddfea83",
+  "active": "0a63af7191d7150f",
   "lastOpenFiles": [
+    "Développement efficace/Structure données/Pile.md",
+    "Développement efficace/Structure données/Structure chaînée.md",
+    "Développement efficace/Structure données/File.md",
     "Maths/Probabilités/Lois/Loi hypergéométrique.md",
     "Développement efficace/Développement efficace.md",
     "Management SI/Chapitre 1/Amortissement linéaire.md",
@@ -175,9 +178,6 @@
     "POO/Définitions/Objet.md",
     "POO/POO.md",
     "POO/C++/point h/Prototype.md",
-    "POO/Définitions/Constructeur.md",
-    "POO/Définitions/Classe.md",
-    "POO/Définitions/Encapsulation.md",
     "POO/C++/point cc",
     "POO/C++/point h",
     "Développement efficace/Structure données",
