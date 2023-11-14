@@ -4,43 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ae2e261535bdff36",
+        "id": "7c3b8738a6a62306",
         "type": "tabs",
         "children": [
           {
-            "id": "052c107744b2bb73",
+            "id": "249652cd4ddfea83",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POO/C++/Opérateurs/Pointeur.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8f4dd20b8c833bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POO/C++/std.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6122d5b55540e0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POO/C++/Adresse.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -72,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pile",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POO/C++/Opérateurs/Pointeur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POO/C++/Opérateurs/Pointeur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "POO/C++/Opérateurs/Pointeur.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,54 +148,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "b227da9be7251da2",
-    "type": "floating",
-    "children": [
-      {
-        "id": "f9eab308c0e2d17d",
-        "type": "window",
-        "children": [
-          {
-            "id": "1c3a8c4907d70ab1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f9977aff2d106f55",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "POO/C++/point h/En-tête.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 757,
-        "y": 45,
-        "width": 1576,
-        "height": 1000,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "052c107744b2bb73",
+  "active": "249652cd4ddfea83",
   "lastOpenFiles": [
-    "POO/C++/Opérateurs/Référence.md",
-    "POO/C++/Opérateurs/Pointeur.md",
-    "POO/C++/Mot-clés spéciaux/const.md",
-    "POO/C++/std.md",
+    "Maths/Probabilités/Lois/Loi hypergéométrique.md",
+    "Développement efficace/Développement efficace.md",
+    "Management SI/Chapitre 1/Amortissement linéaire.md",
+    "POO/C++/point h/En-tête.md",
     "POO/C++/Adresse.md",
+    "POO/C++/std.md",
+    "POO/C++/Opérateurs/Pointeur.md",
+    "POO/C++/Opérateurs/Référence.md",
+    "POO/C++/Mot-clés spéciaux/const.md",
     "POO/C++/Cpp.md",
     "POO/Définitions/Polymorphisme.md",
     "POO/C++/point cc/Méthodes cpp.md",
-    "POO/C++/point h/En-tête.md",
     "POO/Définitions/Héritage.md",
     "POO/C++/Opérateurs/Opérateurs cpp.md",
     "POO/C++/Mot-clés spéciaux",
@@ -244,9 +178,6 @@
     "POO/Définitions/Constructeur.md",
     "POO/Définitions/Classe.md",
     "POO/Définitions/Encapsulation.md",
-    "Développement efficace/Structure données/Structure chaînée.md",
-    "Maths/Fonction.md",
-    "Maths/Probabilités/Lois/Loi de Poisson.md",
     "POO/C++/point cc",
     "POO/C++/point h",
     "Développement efficace/Structure données",
