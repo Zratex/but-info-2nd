@@ -1,7 +1,7 @@
 Ce qui illustre le mieux le concept d'une pile est une **pile d'assiette**.
 
 Il existe des règles à suivre pour les piles :
-- Dernier rentrée, premier sortie
+- **Dernier rentrée, premier sortie**
 - Eléments homogènes (càd de même type)
 - Linéarité
 

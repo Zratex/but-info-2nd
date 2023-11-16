@@ -1,7 +1,7 @@
 Ce qui illustre le mieux le concept d'une file est une **file d'attente**.
 
 Il existe des règles à suivre pour les files, similaire aux [[Pile|piles]] :
-- Premier rentrée, premier sortie
+- **Premier rentrée, premier sortie**
 - Eléments homogènes (càd de même type)
 - Linéarité
 ## Opération
