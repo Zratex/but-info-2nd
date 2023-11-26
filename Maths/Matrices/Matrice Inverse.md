@@ -1,0 +1,1 @@
+La matrice inverse a comme propriété que le résultat de sa [[Opération matricielle#Multiplication Matricielle|multiplication]] avec sa [[Matrices|matrice]] d'origine donne une [[Matrices unitaire|matrice unitaire]].
