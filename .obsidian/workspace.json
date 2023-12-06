@@ -11,8 +11,12 @@
             "id": "1755197f319b8a73",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Algèbre linéaire/Vecteurs/Coordonnées.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Maths/Algèbre linéaire/Vecteurs/Coordonnées.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Maths/Algèbre linéaire/Vecteurs/Coordonnées.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Maths/Algèbre linéaire/Vecteurs/Coordonnées.md"
+              }
             }
           },
           {
@@ -148,24 +156,64 @@
       "command-palette:Open command palette": false
     }
   },
+  "floating": {
+    "id": "db897587c9550e06",
+    "type": "floating",
+    "children": [
+      {
+        "id": "1814715250cda0ed",
+        "type": "window",
+        "children": [
+          {
+            "id": "ca0b07bd55b2d9a9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6cd7d41c9104415e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Maths/Algèbre linéaire/Vecteurs/Bases vectorielles.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1236,
+        "y": 160,
+        "width": 1576,
+        "height": 1000,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "1755197f319b8a73",
   "lastOpenFiles": [
-    "Maths/Algèbre linéaire/Bases vectorielles.md",
-    "Maths/Probabilités/Probabilités.md",
-    "Maths/Algèbre linéaire/Vecteurs.md",
-    "Maths/Algèbre linéaire/Algèbre linéaire.md",
-    "Maths/Ensembles mathématiques.md",
-    "Maths/Matrices/Matrice Inverse.md",
-    "Maths/Matrices/Matrices unitaire.md",
-    "Maths/Quantificateurs.md",
+    "Maths/Algèbre linéaire/Vecteurs/Bases vectorielles.md",
+    "Maths/Algèbre linéaire/Vecteurs/Coordonnées.md",
+    "Maths/Algèbre linéaire/Vecteurs/Dimensions.md",
     "Maths/Mathématiques.md",
-    "Maths/Matrices/Matrices.md",
-    "Maths/Matrices/Opération matricielle.md",
-    "Maths/Matrices/Matrices carrée.md",
+    "Maths/Algèbre linéaire/Vecteurs",
+    "Maths/Algèbre linéaire/Vecteurs/Vecteurs.md",
+    "Maths/Algèbre linéaire/Algèbre linéaire.md",
+    "Maths/Probabilités/Probabilités.md",
+    "Maths/Ensembles mathématiques.md",
+    "Maths/Algèbre linéaire/Matrices/Matrice Inverse.md",
+    "Maths/Algèbre linéaire/Matrices/Matrices unitaire.md",
+    "Maths/Quantificateurs.md",
+    "Maths/Algèbre linéaire/Matrices/Matrices.md",
+    "Maths/Algèbre linéaire/Matrices/Opération matricielle.md",
+    "Maths/Algèbre linéaire/Matrices/Matrices carrée.md",
     "Maths/Matrices/Méthodes! Opération matricielle.md",
     "Maths/Méthodes! Opération matricielle.md",
     "Développement efficace/Structure données/File.md",
-    "Maths/Matrices",
+    "Maths/Algèbre linéaire/Matrices",
     "Maths/Outils Maths/Matrices.md",
     "Maths/Outils Maths/Matrices unitaire.md",
     "Maths/Outils Maths/Matrices carrée.md",
@@ -176,8 +224,6 @@
     "Management SI/Année lombarde.md",
     "Management SI/Chapitre 2/Bilan fonctionnel.md",
     "Droit/Chapitre 1/Partie 1/1.2  Obligation du contrat.md",
-    "Droit/Chapitre 1/Partie 1/1.1 Liberté contractuelle.md",
-    "Management SI/Chapitre 1/1 - Rappel gestion comptable.md",
     "POO/C++/Mot-clés spéciaux",
     "POO/C++/Opérateurs",
     "POO/C++/point cc",
@@ -185,7 +231,6 @@
     "Développement efficace/Structure données",
     "Développement efficace",
     "Maths/Algèbre linéaire",
-    "Maths",
     "SI/Exercices/Logo.PNG",
     "SI/Exercices/Capture.PNG"
   ]
