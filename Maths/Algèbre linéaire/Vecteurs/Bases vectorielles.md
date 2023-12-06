@@ -1,5 +1,7 @@
-Une base [[Vecteurs|vectorielle]] c'est un **espace** où tout éléments composant une famille de [[Vecteurs]] (exemple : $x$) seront indépendants.
-Il faut savoir qu'un vecteur se combinant avec une base aura **qu'une seule** combinaison possible.
+Une base [[Vecteurs|vectorielle]] c'est un [[Espace vectorielle|espace]] où tout éléments composant une famille de [[Vecteurs]] (exemple : $x$) seront indépendants.
+Il faut savoir qu'un vecteur se combinant avec une base :
+- aura **qu'une seule** combinaison possible.
+- qui **doit** être de la même "taille" ($n$) que l'espace $\mathbb{R}^n$
 
 > En sachant cela, on peut définir les [[Dimensions]]
 ## Représentation par calcul

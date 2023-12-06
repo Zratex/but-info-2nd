@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "58db665e44d5b4e2",
+        "id": "789d9e96871655f3",
         "type": "tabs",
         "children": [
           {
-            "id": "1755197f319b8a73",
+            "id": "4a7272255fb65d28",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Algèbre linéaire/Vecteurs/Coordonnées.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Algèbre linéaire/Vecteurs/Coordonnées.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Algèbre linéaire/Vecteurs/Coordonnées.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Maths/Algèbre linéaire/Vecteurs/Coordonnées.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,52 +148,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "db897587c9550e06",
-    "type": "floating",
-    "children": [
-      {
-        "id": "1814715250cda0ed",
-        "type": "window",
-        "children": [
-          {
-            "id": "ca0b07bd55b2d9a9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6cd7d41c9104415e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Maths/Algèbre linéaire/Vecteurs/Bases vectorielles.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1236,
-        "y": 160,
-        "width": 1576,
-        "height": 1000,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "1755197f319b8a73",
+  "active": "4a7272255fb65d28",
   "lastOpenFiles": [
+    "Maths/Algèbre linéaire/Vecteurs/Projections.md",
+    "Maths/Algèbre linéaire/Vecteurs/Applications linéaires.md",
+    "Maths/Algèbre linéaire/Algèbre linéaire.md",
+    "Maths/Algèbre linéaire/Vecteurs/Matrice linéaire.md",
+    "Maths/Algèbre linéaire/Comparaison Linéaire-Matrice.md",
+    "Maths/Algèbre linéaire/Vecteurs/Vecteurs.md",
     "Maths/Algèbre linéaire/Vecteurs/Bases vectorielles.md",
+    "Maths/Algèbre linéaire/Vecteurs/Espace vectorielle.md",
+    "README.md",
+    "Démonstration vectorielle.md",
     "Maths/Algèbre linéaire/Vecteurs/Coordonnées.md",
     "Maths/Algèbre linéaire/Vecteurs/Dimensions.md",
     "Maths/Mathématiques.md",
     "Maths/Algèbre linéaire/Vecteurs",
-    "Maths/Algèbre linéaire/Vecteurs/Vecteurs.md",
-    "Maths/Algèbre linéaire/Algèbre linéaire.md",
     "Maths/Probabilités/Probabilités.md",
     "Maths/Ensembles mathématiques.md",
     "Maths/Algèbre linéaire/Matrices/Matrice Inverse.md",
@@ -216,14 +178,7 @@
     "Maths/Algèbre linéaire/Matrices",
     "Maths/Outils Maths/Matrices.md",
     "Maths/Outils Maths/Matrices unitaire.md",
-    "Maths/Outils Maths/Matrices carrée.md",
-    "Maths/Outils Maths/Matrice Inverse.md",
     "Maths/Outils Maths",
-    "Management SI/Chapitre 2/2 - Analyse du bilan.md",
-    "Management SI/Management SI.md",
-    "Management SI/Année lombarde.md",
-    "Management SI/Chapitre 2/Bilan fonctionnel.md",
-    "Droit/Chapitre 1/Partie 1/1.2  Obligation du contrat.md",
     "POO/C++/Mot-clés spéciaux",
     "POO/C++/Opérateurs",
     "POO/C++/point cc",

@@ -3,7 +3,7 @@ Cette note permet de regrouper les différentes notation entre une notation dans
 | Principe Mathématique | Exemple Linéaire | Exemple Matriciel |
 | :-: | :-: | :-: |
 | Paramètres (ou [[Coordonnées]]) | $(x,y,z)$ | $\begin{matrix} x \\ y \\ z \end{matrix}$ |
-| [[Fonction]] | $f$ | $F$ |
+| [[Fonction]] | ([[Applications linéaires]]) <br> $f$ | $F$ |
 | [[Fonction]] avec des paramètres (ou [[Coordonnées]]) | $f(x,y,z)$ | $F*\begin{matrix} x \\ y \\ z \end{matrix}$ |
 | Puissance | $f * f$ | $F^2$ |
 | Multiplication entre 2 [[Fonction]] | $f * g$ | $F*G$ |
