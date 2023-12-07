@@ -17,6 +17,7 @@ Note comparant le **linéaire** et le **matricielle** : [[Comparaison Linéaire-
 - Réaliser des [[Applications linéaires]]
 	- Savoir passer des [[Matrice linéaire|matrices aux applications linéaire (et inversement)]]
 - Passer d'une [[Bases vectorielles|base]] à une autre
-	- Pivot de Gauss
+	- [[Pivot de Gauss]]
+	- [[Matrice de passage]]
 - Conversion (?)
 - Transformation de couleurs (RGB et CMJ)
