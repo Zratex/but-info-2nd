@@ -18,3 +18,16 @@ $$\begin{matrix} 2 & 1 \\ -1 & 1 \end{matrix}$$
 | :-: |:-: | :-: |
 | **Première** | Nous avons $2x$, donc:<br><br>$x=2$ | Nous avons $+y$, soit $1*y$, donc:<br><br>$y=1$ |
 | **Seconde** | Nous avons $-x$, ce qui revient à $-1*x$, donc:<br><br>$x=-1$ | Nous avons simplement $y$, soit $1*y$, donc:<br><br>$y=1$ |
+
+## Matrice vers application linaire
+Illustration directement avec l'exemple de cette matrice :
+$$\begin{matrix} 2 & 1 \\ -1 & 1 \end{matrix}$$
+> Etape 1 : On ajoute $*x$ et $*y$ devant chaque éléments correspondants
+
+$$\begin{matrix} 2x & 1y \\ -1x & 1y \end{matrix}$$
+> Etape 2 : On additionne les éléments de chaque lignes
+
+$$\begin{matrix} 2x + 1y \\ -1x + y1 \end{matrix}$$
+> Etape 3 : On prend chaque nouvel élément pour en faire une [[Coordonnées|coordonnée]] pour notre [[Applications linéaires|application linéaire]]. (+On simplifie les 1)
+
+$$(2x+y ; -x+y)$$
