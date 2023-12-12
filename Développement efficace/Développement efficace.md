@@ -4,4 +4,6 @@ Le langage majoritairement utilisé sera le [[Cpp|C++]]
 ## Concepts de structure de données
 Il existe différentes structures de données :
 - [[Pile]]
+- [[File]]
 - [[Structure chaînée]]
+- [[Arbre]]

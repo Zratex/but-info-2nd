@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "789d9e96871655f3",
+        "id": "5f3526e26687ec41",
         "type": "tabs",
         "children": [
           {
-            "id": "4a7272255fb65d28",
+            "id": "2dccf587e5eb463e",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -148,8 +148,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a7272255fb65d28",
+  "active": "2dccf587e5eb463e",
   "lastOpenFiles": [
+    "Développement efficace/Développement efficace.md",
+    "Développement efficace/Structure données/Structure chaînée.md",
+    "Développement efficace/Structure données/Arbres/Parcours en largeur.md",
+    "Développement efficace/Structure données/Arbres",
+    "Développement efficace/Structure données/Arbres/Parcours en profondeur.md",
+    "Développement efficace/Structure données/Arbres/Arbre binaire de tri.md",
+    "Développement efficace/Structure données/Arbres/Arbre binaire.md",
+    "Développement efficace/Structure données/Arbres/Arbre.md",
+    "Développement efficace/Structure données/Arbres/Arbre binaire schema sous Paint net gaming.png",
+    "Schema.md",
+    "Développement efficace/Structure données/Schema Arbre sous Paint net gaming.png",
+    "Développement efficace/Structure données/Schema Arbre sous Paint net gaming.png.0.pdnSave",
     "Maths/Quantificateurs.md",
     "Maths/Algèbre linéaire/Vecteurs/Matrice linéaire.md",
     "Maths/Algèbre linéaire/Matrices/Pivot de Gauss.md",
@@ -169,14 +181,6 @@
     "Maths/Algèbre linéaire/Vecteurs/Coordonnées.md",
     "Maths/Algèbre linéaire/Vecteurs/Dimensions.md",
     "Maths/Algèbre linéaire/Vecteurs",
-    "Maths/Probabilités/Probabilités.md",
-    "Maths/Ensembles mathématiques.md",
-    "Maths/Algèbre linéaire/Matrices/Matrice Inverse.md",
-    "Maths/Algèbre linéaire/Matrices/Matrices.md",
-    "Maths/Algèbre linéaire/Matrices/Opération matricielle.md",
-    "Maths/Matrices/Méthodes! Opération matricielle.md",
-    "Maths/Méthodes! Opération matricielle.md",
-    "Développement efficace/Structure données/File.md",
     "Maths/Algèbre linéaire/Matrices",
     "Maths/Outils Maths",
     "POO/C++/Mot-clés spéciaux",
@@ -184,8 +188,6 @@
     "POO/C++/point cc",
     "POO/C++/point h",
     "Développement efficace/Structure données",
-    "Développement efficace",
-    "Maths/Algèbre linéaire",
     "SI/Exercices/Logo.PNG",
     "SI/Exercices/Capture.PNG"
   ]
