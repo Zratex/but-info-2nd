@@ -1,4 +1,4 @@
-La différence entre un cas discret et continu réside en la valeur que peux prendre la variable aléatoire, souvent noté par ==X==
+En [[Probabilités]], la différence entre un cas discret et continu réside en la valeur que peux prendre la variable aléatoire, souvent noté par ==X==
 ## Discret
 Les valeurs prisent par $X$ sont distinctes et isolées. Donc on peux compter chaque cas et représenter cela par, par exemple :
 $\Omega_X$ = {0 ,1 , 2 , $\cdots$ }

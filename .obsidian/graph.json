@@ -39,7 +39,7 @@
       "query": "path:\"UI and UX\"  ",
       "color": {
         "a": 1,
-        "rgb": 12255487
+        "rgb": 9832919
       }
     }
   ],
@@ -53,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.42168761734537685,
+  "scale": 0.4411197803307578,
   "close": false
 }

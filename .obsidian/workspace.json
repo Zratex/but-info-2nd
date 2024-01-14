@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5f3526e26687ec41",
+        "id": "0bc3cd2c1ce3c881",
         "type": "tabs",
         "children": [
           {
-            "id": "2dccf587e5eb463e",
+            "id": "93f868d500f718b2",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pile",
+                "query": "inverse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +127,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -148,46 +150,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76ae01e06996c6d7",
+  "active": "93f868d500f718b2",
   "lastOpenFiles": [
-    "UI and UX/Figma/Shapes.md",
-    "UI and UX/Figma/Basic tools.md",
-    "UI and UX/Figma/Resources.md",
-    "UI and UX/Figma/Layout.md",
-    "UI and UX/Figma/Frame.md",
-    "UI and UX/Figma/Figma.md",
-    "UI and UX/Figma/Figma tutorial.md",
-    "UI and UX/UX & UI.md",
-    "UI and UX/Responsive.md",
-    "UI and UX/Realtime Colors.md",
-    "UI and UX/Juxtopposed.md",
-    "UI and UX/Charte graphique.md",
+    "Maths/Cryptographie/Chiffrement Symétrique/Chiffrement symétrique.md",
+    "Maths/Cryptographie/Calcul inverse.md",
+    "Maths/Cryptographie/Chiffrement Symétrique/Chiffrement Vernam.md",
+    "Maths/Cryptographie/Chiffrement Symétrique/Chiffrement Vigenère.md",
+    "Maths/Cryptographie/Chiffrement Symétrique/Chiffrement affine.md",
+    "Maths/Modulo.md",
+    "Maths/Cryptographie/Chiffrement.md",
+    "Maths/Algèbre linéaire/Comparaison Linéaire-Matrice.md",
+    "Maths/Algèbre linéaire/Vecteurs/Applications linéaires.md",
+    "Maths/Cryptographie/Chiffrement Asymétrique/Chiffrement Asymétrique.md",
+    "Maths/Algèbre linéaire/Vecteurs/Matrice linéaire.md",
+    "Maths/Algèbre linéaire/Algèbre linéaire.md",
+    "Maths/Cryptographie/Modulo 26.md",
+    "Maths/Cryptographie/Chiffrement Symétrique/Code César.md",
+    "Maths/Probabilités/Cas classiques/Formule de Bayes.md",
+    "Maths/Probabilités/Cas classiques/Conditionnelle.md",
+    "Maths/Probabilités/Définition/Variables aléatoires.md",
+    "Maths/Probabilités/Définition/Univers.md",
+    "Maths/Probabilités/Définition/Issues.md",
+    "Maths/Probabilités/Définition/Hasard.md",
+    "Maths/Probabilités/Définition/Expérience aléatoire.md",
+    "Maths/Probabilités/Définition/Evènement.md",
+    "Maths/Probabilités/Définition/Coefficient binomiale.md",
+    "Maths/Probabilités/Définition/Calcul coef binomiale.md",
+    "Maths/Probabilités/Probabilités.md",
+    "Maths/Probabilités/Lois/Loi Normale.md",
+    "Maths/Cryptographie/Chiffrement Asymétrique",
+    "Maths/Cryptographie/Chiffrement Symétrique",
+    "Maths/Cryptographie",
+    "Développement efficace/Structure données/Arbres/Arbre binaire schema sous Paint net gaming.png",
+    "Développement efficace/Structure données/Arbres",
     "UI and UX/Figma",
     "UI and UX",
-    "Développement efficace/Développement efficace.md",
-    "Développement efficace/Structure données/Structure chaînée.md",
-    "Développement efficace/Structure données/Arbres/Parcours en largeur.md",
-    "Développement efficace/Structure données/Arbres",
-    "Développement efficace/Structure données/Arbres/Parcours en profondeur.md",
-    "Développement efficace/Structure données/Arbres/Arbre binaire de tri.md",
-    "Développement efficace/Structure données/Arbres/Arbre binaire.md",
-    "Développement efficace/Structure données/Arbres/Arbre.md",
-    "Développement efficace/Structure données/Arbres/Arbre binaire schema sous Paint net gaming.png",
-    "Schema.md",
-    "Développement efficace/Structure données/Schema Arbre sous Paint net gaming.png",
-    "Développement efficace/Structure données/Schema Arbre sous Paint net gaming.png.0.pdnSave",
-    "Maths/Quantificateurs.md",
-    "Maths/Algèbre linéaire/Vecteurs/Matrice linéaire.md",
-    "Maths/Algèbre linéaire/Matrices/Pivot de Gauss.md",
-    "Maths/Algèbre linéaire/Algèbre linéaire.md",
-    "Maths/Algèbre linéaire/Matrices/Matrices unitaire.md",
-    "Maths/Algèbre linéaire/Vecteurs/Matrice de passage.md",
     "Maths/Algèbre linéaire/Vecteurs",
     "Maths/Algèbre linéaire/Matrices",
     "Maths/Outils Maths",
     "POO/C++/Mot-clés spéciaux",
-    "POO/C++/Opérateurs",
-    "POO/C++/point cc",
     "SI/Exercices/Logo.PNG",
     "SI/Exercices/Capture.PNG"
   ]

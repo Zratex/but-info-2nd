@@ -1,1 +1,1 @@
-Evènement pouvant survenir de manière inexpliquées ou imprévisible, ou être des effets de causes **indéterminées.**
+En [[Probabilités]], le **hasard** est l'évènement pouvant survenir de manière inexpliquées ou imprévisible, ou être des effets de causes **indéterminées.**
