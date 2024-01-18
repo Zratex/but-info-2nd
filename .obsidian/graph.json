@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:POO  ",
@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 9832919
       }
+    },
+    {
+      "query": "path:PPP  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4411197803307578,
+  "scale": 0.44111978033075794,
   "close": false
 }

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0bc3cd2c1ce3c881",
+        "id": "d0acdca1b344ec7b",
         "type": "tabs",
         "children": [
           {
-            "id": "93f868d500f718b2",
+            "id": "90328f73d42f8cf2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inverse",
+                "query": "multiplication",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -150,15 +158,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93f868d500f718b2",
+  "active": "90328f73d42f8cf2",
   "lastOpenFiles": [
-    "Maths/Cryptographie/Chiffrement Symétrique/Chiffrement symétrique.md",
+    "PPP/Recrutement/CV.md",
+    "PPP/Recrutement/Porte feuille compétences.md",
+    "PPP/Recrutement/Recrutement.md",
+    "Droit/Contrats et Obligations contractuelles.md",
+    "PPP/Recrutement/Projet.md",
+    "PPP/Recrutement/Offres marché travail.md",
+    "PPP/Recrutement/Liste de Métiers.md",
+    "PPP/Recrutement",
+    "PPP",
+    "Maths/Cryptographie/Code linéaires détecteurs d'erreurs.md",
+    "Maths/Algèbre linéaire/Matrices/Opération matricielle.md",
+    "Maths/Algèbre linéaire/Vecteurs/Matrice de passage.md",
+    "Maths/Algèbre linéaire/Matrices/Matrice Inverse.md",
+    "Maths/Cryptographie/Chiffrement.md",
     "Maths/Cryptographie/Calcul inverse.md",
+    "Maths/Cryptographie/Chiffrement Symétrique/Chiffrement symétrique.md",
     "Maths/Cryptographie/Chiffrement Symétrique/Chiffrement Vernam.md",
     "Maths/Cryptographie/Chiffrement Symétrique/Chiffrement Vigenère.md",
     "Maths/Cryptographie/Chiffrement Symétrique/Chiffrement affine.md",
     "Maths/Modulo.md",
-    "Maths/Cryptographie/Chiffrement.md",
     "Maths/Algèbre linéaire/Comparaison Linéaire-Matrice.md",
     "Maths/Algèbre linéaire/Vecteurs/Applications linéaires.md",
     "Maths/Cryptographie/Chiffrement Asymétrique/Chiffrement Asymétrique.md",
@@ -167,17 +188,6 @@
     "Maths/Cryptographie/Modulo 26.md",
     "Maths/Cryptographie/Chiffrement Symétrique/Code César.md",
     "Maths/Probabilités/Cas classiques/Formule de Bayes.md",
-    "Maths/Probabilités/Cas classiques/Conditionnelle.md",
-    "Maths/Probabilités/Définition/Variables aléatoires.md",
-    "Maths/Probabilités/Définition/Univers.md",
-    "Maths/Probabilités/Définition/Issues.md",
-    "Maths/Probabilités/Définition/Hasard.md",
-    "Maths/Probabilités/Définition/Expérience aléatoire.md",
-    "Maths/Probabilités/Définition/Evènement.md",
-    "Maths/Probabilités/Définition/Coefficient binomiale.md",
-    "Maths/Probabilités/Définition/Calcul coef binomiale.md",
-    "Maths/Probabilités/Probabilités.md",
-    "Maths/Probabilités/Lois/Loi Normale.md",
     "Maths/Cryptographie/Chiffrement Asymétrique",
     "Maths/Cryptographie/Chiffrement Symétrique",
     "Maths/Cryptographie",
@@ -187,8 +197,6 @@
     "UI and UX",
     "Maths/Algèbre linéaire/Vecteurs",
     "Maths/Algèbre linéaire/Matrices",
-    "Maths/Outils Maths",
-    "POO/C++/Mot-clés spéciaux",
     "SI/Exercices/Logo.PNG",
     "SI/Exercices/Capture.PNG"
   ]
