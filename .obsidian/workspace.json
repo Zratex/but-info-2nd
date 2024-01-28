@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d0acdca1b344ec7b",
+        "id": "170cd1453a480ed2",
         "type": "tabs",
         "children": [
           {
-            "id": "90328f73d42f8cf2",
+            "id": "d4041be363a132d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,8 +150,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90328f73d42f8cf2",
+  "active": "d4041be363a132d5",
   "lastOpenFiles": [
+    "Maths/Mathématiques.md",
+    "Maths/Automates/Etoile de KLEENE.md",
+    "Maths/Automates/Mots.md",
+    "Maths/Automates/Langage.md",
+    "Maths/Automates/Lettres.md",
+    "Maths/Automates/Multiplication langage.md",
+    "Maths/Automates/Addition langage.md",
+    "Maths/Automates/Automates.md",
+    "README.md",
+    "Maths/Automates",
     "PPP/Recrutement/CV.md",
     "PPP/Recrutement/Porte feuille compétences.md",
     "PPP/Recrutement/Recrutement.md",
@@ -179,15 +181,6 @@
     "Maths/Cryptographie/Chiffrement Symétrique/Chiffrement Vernam.md",
     "Maths/Cryptographie/Chiffrement Symétrique/Chiffrement Vigenère.md",
     "Maths/Cryptographie/Chiffrement Symétrique/Chiffrement affine.md",
-    "Maths/Modulo.md",
-    "Maths/Algèbre linéaire/Comparaison Linéaire-Matrice.md",
-    "Maths/Algèbre linéaire/Vecteurs/Applications linéaires.md",
-    "Maths/Cryptographie/Chiffrement Asymétrique/Chiffrement Asymétrique.md",
-    "Maths/Algèbre linéaire/Vecteurs/Matrice linéaire.md",
-    "Maths/Algèbre linéaire/Algèbre linéaire.md",
-    "Maths/Cryptographie/Modulo 26.md",
-    "Maths/Cryptographie/Chiffrement Symétrique/Code César.md",
-    "Maths/Probabilités/Cas classiques/Formule de Bayes.md",
     "Maths/Cryptographie/Chiffrement Asymétrique",
     "Maths/Cryptographie/Chiffrement Symétrique",
     "Maths/Cryptographie",
@@ -196,7 +189,6 @@
     "UI and UX/Figma",
     "UI and UX",
     "Maths/Algèbre linéaire/Vecteurs",
-    "Maths/Algèbre linéaire/Matrices",
     "SI/Exercices/Logo.PNG",
     "SI/Exercices/Capture.PNG"
   ]
