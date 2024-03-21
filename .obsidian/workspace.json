@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d4041be363a132d5",
+            "id": "130d24f7e07917ba",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Management SI/S4/Annuités.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "multiplication",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Management SI/S4/Annuités.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Management SI/S4/Annuités.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Management SI/S4/Annuités.md"
+              }
             }
           },
           {
@@ -150,16 +158,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4041be363a132d5",
+  "active": "130d24f7e07917ba",
   "lastOpenFiles": [
+    "Management SI/Management SI.md",
+    "Management SI/S4/Intérêts composés.md",
+    "Management SI/S4/Annuités.md",
+    "Management SI/S4/Lettre de change.md",
+    "Management SI/S4/Intérêts simples.md",
+    "Management SI/Chapitre 2/2 - Analyse du bilan.md",
+    "Management SI/Chapitre 2/Bilan fonctionnel.md",
     "Développement efficace/Optimisation/Chemins/Minimax.md",
     "Développement efficace/Optimisation/Chemins/Greedy (Glouton).md",
     "Développement efficace/Optimisation/Chemins/Dijkstra.md",
     "Développement efficace/Optimisation/Chemins",
     "Développement efficace/Optimisation",
-    "Management SI/S4/Lettre de change.md",
-    "Management SI/S4/Intérêts simples.md",
-    "Management SI/S4/Intérêts composés.md",
     "Management SI/S4",
     "Maths/Mathématiques.md",
     "Maths/Automates/Etoile de KLEENE.md",
@@ -180,10 +192,6 @@
     "PPP/Recrutement/Liste de Métiers.md",
     "PPP/Recrutement",
     "PPP",
-    "Maths/Cryptographie/Code linéaires détecteurs d'erreurs.md",
-    "Maths/Algèbre linéaire/Matrices/Opération matricielle.md",
-    "Maths/Algèbre linéaire/Vecteurs/Matrice de passage.md",
-    "Maths/Algèbre linéaire/Matrices/Matrice Inverse.md",
     "Maths/Cryptographie/Chiffrement Asymétrique",
     "Maths/Cryptographie/Chiffrement Symétrique",
     "Maths/Cryptographie",

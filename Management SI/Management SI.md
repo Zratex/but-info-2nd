@@ -2,3 +2,8 @@ Hub des notes du cours de Management de SI par Escuyer. Il faut se dire que c'es
 
 Chapitre 1 : [[1 - Rappel gestion comptable|rappel gestion comptable]]
 Chapitre 2 : [[2 - Analyse du bilan|analyse du bilan]]
+## S4
+- [[Intérêts simples]]
+- [[Intérêts composés]]
+- [[Lettre de change]]
+- [[Annuités]]

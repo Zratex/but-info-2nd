@@ -25,8 +25,11 @@ timeline
 	- $V_{n}=1000*5.637092$
 	- $V_{n}=$ 5637.09€
 ## Exemple d'actualisation
+### Formule
 $V_0$ est la valeur actuel du capital. Formule adaptée à l'actualisation:
 $$V_0 = a*\frac{1-(1+i)^{-n}}{i}$$
+> Formule si les annuités sont en début d'année : $V_0 = a*\frac{1-(1+i)^{-n}}{i}$
+### Exemple concret
 Contexte de l'exemple :
 ```
 Appartement de 120k€, reste en 7 annuités taux 3%
